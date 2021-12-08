@@ -1,0 +1,62 @@
+﻿Άσκηση 5 - Τεχνητή Νοημοσύνη
+
+
+Κωνσταντίνα Έλληνα
+1115201600046
+
+
+
+
+Ερωτήσεις
+
+
+1. What is the capital of Texas, USA?
+2. Does California border with Arizona?
+3. Which is the biggest lake in Dublin, Ireland?
+4. Which supermarkets are the nearest to hotels in Nottingham, Great Britain?
+5. Which schools are near zoos?
+6. Which states of America have a population of more than 10.000.000 people?
+7. Which is the longest river in the USA?
+8. How many churches are there in London?
+9. Are there any prisons in Belfast, Ireland?
+10. Which bar is nearest to Big Ben in London?
+11. Which cities does the Mississippi in the USA cross?
+12. Are there any libraries in the city of Manchester that are near the University of Manchester?
+13. Which of the countries of Great Britain, USA and Ireland has the most museums?
+14. Which is the longest state of the USA (on kilometers)?
+15. Which is the northest city in Ireland?
+16. Which car washer has near it a car rental agency in Galway, Ireland?
+17. Who is the mayor of Limerick, Ireland?
+18. Is Carson City, Nevada north of St.Louis, Missouri?
+19. How many are the ceremonial counties of England?
+20. Which village of England has the smaller population?
+21. How many nightclubs there are in New York?
+22. Does New York have more nightclubs than Los Angeles?
+23. Is there any cafeteria in Oxford, England that is closer than 2km of a canal?
+24. How many monuments are there in Dublin, Ireland?
+25. Which is the city of the 3 countries with the biggest population?
+26. How far is the embassy of Greece from the airport of London?
+27. Which pubs are near Tower Bridge, England?
+28. Which railway station is the nearest to the Liverpool Airport?
+29. Is there a state that has more than 3 airports?
+30. Which states have less than 2 airports?
+31. How many dog parks there are in San Francisco?
+32. Are there any motels closer than 5 km to the museum of Madame Tussaud in London?
+33. Is Hawaiian home land in the first level of political divisions of the USA?
+34. Is Gwent a preserved county of Wales?
+35. What is the population of Dublin, Ireland?
+36. Which stadiums are close to sports shops?
+37. Is Manchester’s stadium(Old Trafford) closer to Heathrow Airport than Liverpool’s stadium(Anfield)?
+38. Which hospital in Brighton is near to a pharmacy?
+39. Which tram stop is closer to Buckingham Palace in London?
+40. Who is the president of the Republic of Ireland?
+41. Which state borders on the north side with New Jersey?
+42. Where is Wexford located?
+43. Is Los Angeles west of Arizona?
+44. Which is the largest city of Scotland?
+45. Is there a zoo in Glasgow?
+46. Is there a dentist close to a metro station?
+47. How many cinemas are there in Nevada that have a fast food restaurant near them?
+48. Is there a forest in Bristol?
+49. Which college is at most 5km to the city center?
+50. Which libraries are near schools?
